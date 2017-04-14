@@ -1,5 +1,7 @@
 # 1188 Final Project
 
+Kyle Monto, Mike Mortensen, Matt Damiani, Beth Shenck
+
 The **PubSubClient** folder contains a sample project that Dickerson linked to. If you download Energia, and place the **PubSubClient** folder inside of `Energia/libraries` folder you will be able to open and run the project.
 
 The **MQTT_Milk_Sensor_Publisher** folder contains a modified version of the main file from the **PubSubClient** project.
@@ -19,4 +21,4 @@ To run -
 * This project was largely based off of this project:
 http://energia.nu/creating-an-iot-connected-sensor-with-energia-mqtt/
 
-* Consult the link above if you need more information 
+* Consult the link above if you need more information
