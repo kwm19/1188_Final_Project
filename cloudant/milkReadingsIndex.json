@@ -1,0 +1,19 @@
+{
+ "type": "json",
+ "def": {
+  "fields": [
+   {
+    "time_stamp_nano": "asc"
+   },
+   {
+    "time_stamp_string": "asc"
+   },
+   {
+    "EggData": "asc"
+   },
+   {
+    "MilkData": "asc"
+   }
+  ]
+ }
+}
